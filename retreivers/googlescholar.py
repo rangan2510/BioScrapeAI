@@ -96,6 +96,6 @@ def get_gs(search_term, debug=False):
     return df
 
 #%%
-df = get_gs("Alpelisib", debug=True)
+# df = get_gs("Alpelisib", debug=True)
 
 #%%
