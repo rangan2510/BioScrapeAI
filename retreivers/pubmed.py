@@ -130,8 +130,8 @@ def get_pubmed(search_term, first_n=10, debug=False):
     return(df, summary_text)
 
 # %%
-df, summary = get_pubmed("Alpelisib", debug=True)
-print(df)
-print(summary)
+# df, summary = get_pubmed("Alpelisib", debug=True)
+# print(df)
+# print(summary)
 
 #%%

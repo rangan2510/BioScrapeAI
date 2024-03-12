@@ -68,3 +68,11 @@ def parse_wiki(data):
         paragraphs.append(para.get_text())
     text = "".join(paragraphs)
     return(text)
+
+def extract_paragraphs(data):
+    soup = data
+    paragraphs = []
+    for para in soup.find_all("p"):
+        paragraphs.append(para.get_text())
+    text = "".join(paragraphs)
+    return(text)

@@ -12,7 +12,7 @@ from fake_useragent import UserAgent
 import datetime
 
 sys.path.append('../')
-from scraping.parser import get_text
+from scraping.parser import get_text, extract_paragraphs
 from scraping.parser import parse_gs_results
 from scraping.utils import aware_utcnow
 
@@ -79,7 +79,7 @@ def get_gs(search_term, debug=False):
             # Get the HTML content directly from the browser's DOM
             page_source = driver.execute_script("return document.body.outerHTML;")
             soup = BeautifulSoup(page_source, "html.parser")
-            text = get_text(soup)
+            text = extract_paragraphs(soup)
             lines = (line.strip() for line in text.splitlines())
             chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
             text = "\n".join(chunk for chunk in chunks if chunk)
@@ -90,7 +90,7 @@ def get_gs(search_term, debug=False):
         texts.append(text)
         timestamps.append(aware_utcnow())
     df["Text"] = texts
-    df["Accessed on"] = timestamps
+    df["Accessed on"] = str(timestamps)
 
     driver.quit()
     return df
