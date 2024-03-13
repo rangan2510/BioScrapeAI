@@ -63,7 +63,7 @@ def get_wiki(search_term, debug=False):
     genai.configure(api_key=GOOGLE_API_KEY)
     model = genai.GenerativeModel('gemini-pro')
 
-    print("Attempting to summarize.")
+    print("Attempting to summarize...")
     while retry_count < max_retries:
         try:
             response = model.generate_content(in_prompt)
@@ -75,6 +75,7 @@ def get_wiki(search_term, debug=False):
             print(e)
             summary_text = "Failed to get a response." + str(e)
 
+    print("Done.")
     return(text, summary_text)
 
 

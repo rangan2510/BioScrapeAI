@@ -83,18 +83,19 @@ def get_pubmed(search_term, first_n=10, wait_for=30, debug=False):
     if WAIT_INDEFINITELY:
         input("Press Enter to continue...")
     else:
-        print("Waiting for download to complete...")
-        for _ in trange(wait_for):
+        print("Waiting for download to complete",end="", flush=True)
+        for _ in range(wait_for):
+            print(".", end="", flush=True)
             time.sleep(1)
 
     dat = None
     downloaded_files = os.listdir(DOWNLOAD_PATH)
     
     if len(downloaded_files) == 0:
-        print("Nothing downloaded.")
+        print("\nNothing downloaded.")
         sys.exit()
     else:
-        print("Download completed.")
+        print("\nDownload completed.")
         driver.quit()
         file = downloaded_files[0]
         with open("temp" + "\\" + SESSION_ID + "\\" + file) as f:
@@ -116,7 +117,7 @@ def get_pubmed(search_term, first_n=10, wait_for=30, debug=False):
     genai.configure(api_key=GOOGLE_API_KEY)
     model = genai.GenerativeModel('gemini-pro')
 
-    print("Attempting to summarize.")
+    print("Attempting to summarize...")
     while retry_count < max_retries:
         try:
             response = model.generate_content(in_prompt)
@@ -128,6 +129,7 @@ def get_pubmed(search_term, first_n=10, wait_for=30, debug=False):
             print(e)
             summary_text = "Failed to get a response." + str(e)
 
+    print("Done.")
     return(df, summary_text)
 
 # %%
