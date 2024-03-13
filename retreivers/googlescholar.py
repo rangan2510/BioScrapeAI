@@ -1,6 +1,7 @@
 #%%
 import sys, os, uuid
 import pandas as pd
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
@@ -69,12 +70,13 @@ def get_gs(search_term, debug=False):
     df2 = pd.DataFrame(json_resp)
 
     df = pd.concat([df1, df2])
+    df.reset_index()
     texts = []
     timestamps = []
     for idx, row in df.iterrows():
         link = row["Link"]
         try:
-            print("Attempting connection to", link)
+            print(idx, ": attempting connection to", link)
             driver.get(link)
             # Get the HTML content directly from the browser's DOM
             page_source = driver.execute_script("return document.body.outerHTML;")

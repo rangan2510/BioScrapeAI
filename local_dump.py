@@ -131,8 +131,9 @@ drugs_df.to_excel("./out/all_drugs.xlsx")
 
 # %%
 base_path = "./out/"
-for item in target_list:
-    print("Processing",item,"...")
+target_list.sort()
+for idx, item in enumerate(target_list):
+    print(idx,"/",len(target_list), "Processing",item,"...")
     save_path = os.path.join(base_path, item)
     if not os.path.exists(save_path):
         os.makedirs(save_path)
@@ -142,13 +143,12 @@ for item in target_list:
     with open(save_path + "/Wiki_summary.md", "w") as f:
         f.write(summary)
 
-    df, summary = get_pubmed(item, debug=False)
+    df, summary = get_pubmed(item, debug=True)
     df.to_excel(save_path + "/pubmed.xlsx")
     with open(save_path + "/PubMed_summary.md", "w") as f:
         f.write(summary)
 
     df = get_gs(item, debug=False)
     df.to_excel(save_path + "/gs.xlsx")
-
-
+    break
 # %%

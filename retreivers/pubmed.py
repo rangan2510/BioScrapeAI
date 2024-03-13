@@ -1,6 +1,6 @@
 #%%
 import sys, os, uuid, time, shutil, random
-
+from tqdm import tqdm, trange
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
@@ -18,7 +18,7 @@ from scraping.parser import parse_pubmed_results
 
 
 # %%
-def get_pubmed(search_term, first_n=10, debug=False):
+def get_pubmed(search_term, first_n=10, wait_for=30, debug=False):
     TARGET_ROOT_URL = "https://pubmed.ncbi.nlm.nih.gov/"
     SEARCH_TERM = search_term
     WAIT_INDEFINITELY = False # not implemented
@@ -84,7 +84,8 @@ def get_pubmed(search_term, first_n=10, debug=False):
         input("Press Enter to continue...")
     else:
         print("Waiting for download to complete...")
-        time.sleep(10)
+        for _ in trange(wait_for):
+            time.sleep(1)
 
     dat = None
     downloaded_files = os.listdir(DOWNLOAD_PATH)
