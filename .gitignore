@@ -1,4 +1,4 @@
 
 _secrets.py
 data/localdb.json
-/out
+/out/*

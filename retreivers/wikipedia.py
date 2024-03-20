@@ -52,6 +52,7 @@ def get_wiki(search_term, debug=False):
     submit_button.click()
 
     body_content = driver.find_element(by=By.ID, value="bodyContent")
+    url = driver.current_url
     text = parse_wiki(body_content)
 
     in_prompt = "Summarize the following while preserving details as much as possible: \n" + text
@@ -76,10 +77,10 @@ def get_wiki(search_term, debug=False):
             summary_text = "Failed to get a response." + str(e)
 
     print("Done.")
-    return(text, summary_text)
+    return(text, summary_text, url)
 
 
-#%%
-# text, summary = get_wiki("Alpelisib")
+# #%%
+# text, summary,url = get_wiki("Alpelisib", debug=True)
 
 #%%
