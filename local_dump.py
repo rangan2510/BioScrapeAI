@@ -134,23 +134,17 @@ base_path = "./out/"
 target_list.sort()
 
 #%%
+# wikipedia 2 markdown dump
 from wikipyedia_md import articles_to_markdown
 
 for idx, item in enumerate(target_list):
     print(idx+1,"/",len(target_list), "Processing",item,"...")
-    save_path = os.path.join(base_path, item)
-    if not os.path.exists(save_path):
-        os.makedirs(save_path)
-
     text, summary, url = get_wiki(item)
-    with open(save_path + "/Wiki_body_text.txt", "w") as f:
-        f.write(text)
-    with open(save_path + "/Wiki_summary.md", "w") as f:
-        f.write(summary)
-    articles_to_markdown([url], output_dir=save_path)
+    articles_to_markdown([url], output_dir=base_path)
 
 
 #%%
+#Whole dump
 for idx, item in enumerate(target_list):
     print(idx,"/",len(target_list), "Processing",item,"...")
     save_path = os.path.join(base_path, item)
