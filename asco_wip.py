@@ -53,23 +53,21 @@ links = driver.find_elements(by=By.CLASS_NAME, value="guideline-load-link.active
 for i in links:
     urls.append(i.get_attribute("href"))
 
-#%%
+driver.quit()
 
+#%%
 print(urls)
 #%%
-driver.get(urls[0])
+
 #%%
+#put this in a loop
+driver = webdriver.Firefox(options=firefox_options)
+driver.get(urls[0])
 title = driver.find_element(by=By.CLASS_NAME, value="node-title")
 title = title.text
 
 content = driver.find_element(by=By.CLASS_NAME, value="node-content")
 content = content.text
-
-
-
-
-
+driver.quit()
 
 #%%
-driver.quit()
-# %%
