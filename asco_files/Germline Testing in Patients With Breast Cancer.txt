@@ -1,0 +1,22 @@
+Germline Testing in Patients With Breast Cancer: ASCO–Society of Surgical Oncology Guideline
+
+Guideline Status: Current
+Published ahead of print: January 4, 2024. DOI: 10.1200/JCO.23.02225
+
+Isabelle Bedrosian, Mark R. Somerfield, Maria Isabel Achatz, Judy C. Boughey, Giuseppe Curigliano, Sue Friedman, Wendy K. Kohlmann, Allison W. Kurian, Christine Laronga, Filipa Lynce, Barbara S. Norquist, Jennifer K. Plichta, Patricia Rodriguez, Payal D. Shah, Marc Tischkowitz, Marie Wood, Siddhartha Yadav, Katherine Yao, and Mark E. Robson
+
+Purpose
+To develop recommendations for germline mutation testing for patients with breast cancer
+
+Methods
+ An ASCO–Society of Surgical Oncology (SSO) panel convened to develop recommendations based on a systematic review and formal consensus process.
+
+Results
+Forty-seven articles met eligibility criteria for the germline mutation testing recommendations; 18 for the genetic counseling recommendations.
+
+Recommendations
+BRCA1/2 mutation testing should be offered to all newly diagnosed patients with breast cancer ≤65 years and select patients >65 years based on personal history, family history, ancestry, or eligibility for poly(ADP-ribose) polymerase (PARP) inhibitor therapy. All patients with recurrent breast cancer who are candidates for PARP inhibitor therapy should be offered BRCA1/2 testing, regardless of family history. BRCA1/2 testing should be offered to women who develop a second primary cancer in the ipsilateral or contralateral breast. For patients with prior history of breast cancer and without active disease, testing should be offered to patients diagnosed ≤65 years and selectively in patients diagnosed after 65 years, if it will inform personal and family risk. Testing for high-penetrance cancer susceptibility genes beyond BRCA1/2 should be offered to those with supportive family histories; testing for moderate-penetrance genes may be offered if necessary to inform personal and family cancer risk. Patients should be provided enough pretest information for informed consent; those with pathogenic variants should receive individualized post-test counseling. Variants of uncertain significance should not impact management, and patients with such variants should be followed for reclassification. Referral to providers experienced in clinical cancer genetics may help facilitate patient selection and interpretation of expanded testing, and provide counseling of individuals without pathogenic germline variants but with significant family history.
+
+© 2024 American Society of Clinical Oncology, all rights reserved. For licensing opportunities, contact licensing@asco.org 
+
+Please direct any requests to reuse ASCO Guidelines and/or related materials to permissions@asco.org.
