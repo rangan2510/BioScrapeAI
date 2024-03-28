@@ -1,0 +1,15 @@
+Systemic Therapy for Advanced Human Epidermal Growth Factor Receptor 2–Positive Breast Cancer
+
+Guideline Status: Current
+Published online before print May 31, 2022, DOI: 10.1200/JCO.22.00519
+  Sharon H. Giordano, Maria Alice B. Franzoi, Sarah Temin, Carey K. Anders, Sarat Chandarlapaty, Jennie R. Crews, Jeffrey J. Kirshner, Ian E. Krop, MD, Nancy U. Lin, Aki Morikawa, Debra A. Patt, Jane Perlmutter, Naren Ramakrishna, and Nancy E. Davidson. 
+  For information on treating patients with HER2+ breast cancer during drug shortages, click here.
+Purpose
+To update evidence-based guideline recommendations to practicing oncologists and others on systemic therapy for patients with human epidermal growth factor receptor 2 (HER2)–positive advanced breast cancer.
+Methods
+An Expert Panel conducted a targeted systematic literature review (for both systemic treatment and CNS metastases) and identified 545 articles. Outcomes of interest included efficacy and safety.
+Results 
+Of the 545 publications identified and reviewed, 14 were identified to form the evidentiary basis for the guideline recommendations.
+Recommendations 
+HER2-targeted therapy is recommended for patients with HER2-positive advanced breast cancer, except for those with clinical congestive heart failure or significantly compromised left ventricular ejection fraction, who should be evaluated on a case-by-case basis. Trastuzumab, pertuzumab, and taxane for first-line treatment and trastuzumab deruxtecan for second-line treatment are recommended. In the third-line setting, clinicians should offer other HER2-targeted therapy combinations. There is a lack of head-to-head trials; therefore, there is insufficient evidence to recommend one regimen over another. The patient and the clinician should discuss differences in treatment schedule, route, toxicities, etc during the decision-making process. Options include regimens with tucatinib, trastuzumab emtansine, trastuzumab deruxtecan (if either not previously administered), neratinib, lapatinib, chemotherapy, margetuximab, hormonal therapy, and abemaciclib plus trastuzumab plus fulvestrant, and may offer pertuzumab if the patient has not previously received it. Optimal duration of chemotherapy is at least 4-6 months or until maximum response, depending on toxicity and in the absence of progression. HER2-targeted therapy can continue until time of progression or unacceptable toxicities. For patients with HER2-positive and estrogen receptor–positive or progesterone receptor–positive breast cancer, clinicians may recommend either standard first-line therapy or, for selected patients, endocrine therapy plus HER2-targeted therapy or endocrine therapy alone.
+  © 2022 American Society of Clinical Oncology, all rights reserved. For licensing opportunities, contact licensing@asco.org.

@@ -1,0 +1,20 @@
+Management of Hereditary Breast Cancer
+
+Guideline Status: Current
+Rapid Recommendation Update
+Published ahead of print August 3, 2021, DOI:10.1200/JCO.21.01532 
+This rapid recommendation provides timely guidance on the use of olaparib. 
+Updated Recommendation: The updated recommendation for June 2021 is -- For patients with early-stage, human epidermal growth factor receptor 2 (HER2)–negative breast cancer with high risk of recurrence and germline BRCA1 or BRCA2 pathogenic or likely pathogenic variants, one year of adjuvant olaparib should be offered after completion of (neo)adjuvant chemotherapy and local treatment, including radiation. For those who had surgery first, one year of adjuvant olaparib should be offered for patients with triple negative breast cancer (TNBC) and tumor size > 2 cm or any involved axillary nodes. For those with hormone receptor-positive disease, one year of adjuvant olaparib should be offered to those with at least four involved axillary lymph nodes. For patients who had neoadjuvant chemotherapy, one year of adjuvant olaparib should be offered to patients with TNBC and any residual cancer; for patients with hormone receptor-positive disease, one year of adjuvant olaparib should be offered to patients with residual disease and a clinical stage, pathologic stage, estrogen receptor status, and tumor grade (CPS+EG) score ≥ 3.
+1 DOI: 10.1200/JCO.21.01532 Journal of Clinical Oncology 39, no. 26 (September 10, 2021) 2959-2961
+2020 Guideline Abstract
+Published online April 3, 2020, DOI: 10.1200/JCO.20.00299
+Nadine M. Tung, Judy C. Boughey, Lori J. Pierce, Mark E. Robson, Isabelle Bedrosian, Jill R. Dietz, Anthony Dragun, Judith Balmana Gelpi, Erin W. Hofstatter, Claudine J. Isaacs, Ismail Jatoi, Elaine Kennedy, Jennifer K. Litton, Nina A. Mayr, Rubina D. Qamar, Mark G. Trombetta, Brittany E. Harvey, Mark R. Somerfield, and Dana Zakalik
+Purpose
+To develop recommendations for management of patients with breast cancer (BC) with germ line mutations in BC susceptibility genes.
+Methods
+The American Society of Clinical Oncology, American Society for Radiation Oncology, and Society of Surgical Oncology convened an Expert Panel to develop recommendations based on a systematic review of the literature and a formal consensus process.
+Results
+Fifty-eight articles met eligibility criteria and formed the evidentiary basis for the local therapy recommendations; six randomized controlled trials of systemic therapy met eligibility criteria.
+Recommendations
+Patients with newly diagnosed BC and BRCA1/2 mutations may be considered for breast-conserving therapy (BCT), with local control of the index cancer similar to that of noncarriers. The significant risk of a contralateral BC (CBC), especially in young women, and the higher risk of new cancers in the ipsilateral breast warrant discussion of bilateral mastectomy. Patients with mutations in moderate-risk genes should be offered BCT. For women with mutations in BRCA1/2 or moderate-penetrance genes who are eligible for mastectomy, nipple-sparing mastectomy is a reasonable approach. There is no evidence of increased toxicity or CBC events from radiation exposure in BRCA1/2 carriers. Radiation therapy should not be withheld in ATM carriers. For patients with germ line TP53 mutations, mastectomy is advised; radiation therapy is contraindicated except in those with significant risk of locoregional recurrence. Platinum agents are recommended versus taxanes to treat advanced BC in BRCA carriers. In the adjuvant/neoadjuvant setting, data do not support the routine addition of platinum to anthracycline-and taxane-based chemotherapy. Poly (ADP-ribose) polymerase (PARP) inhibitors (olaparib and talazoparib) are preferable to nonplatinum single-agent chemotherapy for treatment of advanced BC in BRCA1/2 carriers. Data are insufficient to recommend PARP inhibitor use in the early setting or in moderate-penetrance carriers.
+© 2020 American Society of Clinical Oncology, all rights reserved. For licensing opportunities, contact licensing@asco.org.

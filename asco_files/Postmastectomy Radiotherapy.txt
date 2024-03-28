@@ -1,0 +1,12 @@
+Postmastectomy Radiotherapy
+
+Guideline Status: Current
+Published online September 19, 2016, DOI:10.1200/JCO.2016.69.1188
+Abram Recht, Elizabeth A. Comen, Richard E. Fine, Gini F. Fleming, Patricia H. Hardenbergh, Alice Y. Ho, Clifford A. Hudis, E. Shelley Hwang, Jeffrey J. Kirshner, Monica Morrow, Kilian E. Salerno, George W. Sledge Jr, Lawrence J. Solin, Patricia A. Spears, Timothy J. Whelan, Mark R. Somerfield, and Stephen B. Edge
+Purpose
+A joint American Society of Clinical Oncology, American Society for Radiation Oncology, and Society of Surgical Oncology panel convened to develop a focused update of the American Society of Clinical Oncology guideline concerning use of postmastectomy radiotherapy (PMRT).
+Methods
+A recent systematic literature review by Cancer Care Ontario provided the primary evidentiary basis. The joint panel also reviewed targeted literature searches to identify new, potentially practice-changing data.
+Recommendations
+The panel unanimously agreed that available evidence shows that PMRT reduces the risks of locoregional failure (LRF), any recurrence, and breast cancer mortality for patients with T1-2 breast cancer with one to three positive axillary nodes. However, some subsets of these patients are likely to have such a low risk of LRF that the absolute benefit of PMRT is outweighed by its potential toxicities. In addition, the acceptable ratio of benefit to toxicity varies among patients and physicians. Thus, the decision to recommend PMRT requires a great deal of clinical judgment. The panel agreed clinicians making such recommendations for individual patients should consider factors that may decrease the risk of LRF, attenuate the benefit of reduced breast cancer–specificmortality, and/or increase risk of complications resulting from PMRT. When clinicians and patients elect to omit axillary dissection after a positive sentinel node biopsy, the panel recommends that these patients receive PMRT only if there is already sufficient information to justify its use without needing to know additional axillary nodes are involved. Patients with axillary nodal involvement after neoadjuvant systemic therapy should receive PMRT. The panel recommends treatment generally be administered to both the internal mammary nodes and the supraclavicular-axillary apical nodes in addition to the chest wall or reconstructed breast.
+© 2019 American Society of Clinical Oncology, all rights reserved. For licensing opportunities, contact licensing@asco.org.

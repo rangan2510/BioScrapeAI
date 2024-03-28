@@ -1,0 +1,20 @@
+Neoadjuvant Chemotherapy, Endocrine Therapy, and Targeted Therapy for Breast Cancer Guideline and Rapid Update
+
+Guideline Status: Current
+Use of Immune Checkpoint Inhibitors in the Treatment of High-Risk, Early-Stage Triple-Negative Breast Cancer Rapid Recommendation Update
+For information on treating patients with HER2+ breast cancer during drug shortages, click here.
+  Published online February 28th, 2022
+Updated Recommendation:  For patients with T1cN1-2 or T2-4N0 (stage II or III), early-stage triple negative breast cancer, the Panel recommends use of pembrolizumab (200 mg every 3 weeks or 400 mg every 6 weeks) in combination with neoadjuvant chemotherapy, followed by adjuvant pembrolizumab after surgery. Adjuvant pembrolizumab may be given either concurrent with or after completion of radiation therapy.  Given that immune-related adverse events (irAEs) associated with pembrolizumab therapy can be severe and permanent, careful screening for and management of common toxicities are required.  The ASCO guideline for management of irAEs in patients treated with immune checkpoint inhibitor therapy offers detailed practice recommendations and should be consulted by clinicians who prescribe pembrolizumab for patients with early-stage TNBC, https://ascopubs.org/doi/full/10.1200/JCO.21.01440. 
+This rapid recommendation update provides timely guidance on the use of pembrolizumab. 
+2021 Guideline Abstract 
+Published ahead of print January 28, 2021, DOI: 10.1200/JCO.20.03399 
+Larissa A. Korde, MD; Mark R. Somerfield, PhD; Lisa A. Carey, MD; Jennie R. Crews, MD; Neelima Denduluri, MD; E. Shelley Hwang, MD; Seema A. Khan, MD; Sibylle Loibl, MD, PhD; Elizabeth A. Morris, MD; Alejandra Perez, MD; Meredith M. Regan, ScD; Patricia A. Spears, BS; Preeti K. Sudheendra, MD; W. Fraser Symmans, MD; Rachel L. Yung, MD; Brittany E. Harvey, BS; and Dawn L. Hershman, MD
+Purpose
+To develop guideline recommendations concerning optimal neoadjuvant therapy for breast cancer.
+Methods
+ASCO convened an Expert Panel to conduct a systematic review of the literature on neoadjuvant therapy for breast cancer and provide recommended care options.
+Results
+A total of 41 articles met eligibility criteria and form the evidentiary basis for the guideline recommendations.
+Recommendations
+Patients undergoing neoadjuvant therapy should be managed by a multidisciplinary care team. Appropriate candidates for neoadjuvant therapy include patients with inflammatory breast cancer and those in whom residual disease may prompt a change in therapy. Neoadjuvant therapy can also be used to reduce the extent of local therapy or reduce delays in initiating therapy. Although tumor histology, grade, stage, and estrogen, progesterone, and human epidermal growth factor receptor 2 (HER2) expression should routinely be used to guide clinical decisions, there is insufficient evidence to support the use of other markers or genomic profiles. Patients with triple-negative breast cancer (TNBC) who have clinically node-positive and/or at least T1c disease should be offered an anthracycline- and taxane-containing regimen; those with cT1a or cT1bN0 TNBC should not routinely be offered neoadjuvant therapy. Carboplatin may be offered to patients with TNBC to increase pathologic complete response. There is currently insufficient evidence to support adding immune checkpoint inhibitors to standard chemotherapy. In patients with hormone receptor (HR)-positive (HR-positive), HER2-negative tumors, neoadjuvant chemotherapy can be used when a treatment decision can be made without surgical information. Among postmenopausal patients with HR-positive, HER2-negative disease, hormone therapy can be used to downstage disease. Patients with node-positive or high-risk node-negative, HER2-positive disease should be offered neoadjuvant therapy in combination with anti-HER2-positive therapy. Patients with T1aN0 and T1bN0, HER2-positive disease should not be routinely offered neoadjuvant therapy.
+© 2021 American Society of Clinical Oncology, all rights reserved. For licensing opportunities, contact licensing@asco.org. 

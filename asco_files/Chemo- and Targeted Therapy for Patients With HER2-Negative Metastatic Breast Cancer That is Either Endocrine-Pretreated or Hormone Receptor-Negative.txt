@@ -1,0 +1,19 @@
+Chemo- and Targeted Therapy for Patients With HER2-Negative Metastatic Breast Cancer That is Either Endocrine-Pretreated or Hormone Receptor-Negative
+
+Guideline Status: Current
+Rapid Recommendation Update
+Published online December 12, 2022
+Updated Recommendation: Patients with hormone receptor-positive HER2-negative metastatic breast cancer who are refractory to endocrine therapy and have received at least 2 prior lines of chemotherapy for metastatic disease may be offered sacituzumab govitecan. 
+This rapid recommendation provides timely guidelines on the use of sacituzumab govitecan.
+Rapid Recommendation Update
+Published online July 5, 2022.
+Updated Recommendation: Patients with HER2 IHC 1+ or 2+ and ISH negative metastatic breast cancer who have received at least one prior chemotherapy for metastatic disease, and if HR+ are refractory to endocrine therapy, should be offered treatment with trastuzumab deruxtecan.
+This rapid recommendation provides timely guidance on the use of trastuzumab deruxtecan.
+2021 Guideline Abstract 
+Purpose
+This guideline updates recommendations of the ASCO guideline on chemotherapy and targeted therapy for patients with human epidermal growth factor receptor 2–negative metastatic breast cancer (MBC) that is either endocrine-pretreated or hormone receptor (HR)–negative.
+Methods
+An Expert Panel conducted a targeted systematic literature review guided by a signals approach to identify new, potentially practice-changing data that might translate into revised guideline recommendations. RESULTS The Expert Panel reviewed abstracts from the literature review and retained 14 articles.
+Recomendations
+Patients with triple-negative, programmed cell death ligand-1–positive MBC may be offered the addition of immune checkpoint inhibitor to chemotherapy as first-line therapy. Patients with triple-negative, programmed cell death ligand-1–negative MBC should be offered single-agent chemotherapy rather than combination chemotherapy as first-line treatment, although combination regimens may be offered for lifethreatening disease. Patients with triple-negative MBC who have received at least two prior therapies for MBC should be offered treatment with sacituzumab govitecan. Patients with triple-negative MBC with germline BRCA mutations previously treated with chemotherapy may be offered a poly (ADP-ribose) polymerase inhibitor rather than chemotherapy. Patients with HR-positive human epidermal growth factor receptor 2–negative MBC for whom chemotherapy is being considered should be offered single–agent chemotherapy rather than combination chemotherapy, although combination regimens may be offered for highly symptomatic or life-threatening disease. Patients with HR-positive MBC with disease progression on an endocrine agent may be offered treatment with either endocrine therapy with or without targeted therapy or single-agent chemotherapy. Patients with HR-positive MBC with germline BRCA mutations no longer benefiting from endocrine therapy may be offered a poly (ADP-ribose) polymerase inhibitor rather than chemotherapy. No recommendation regarding when a patient’s care should be transitioned to hospice or best supportive care alone is possible.
+© 2023 American Society of Clinical Oncology, all rights reserved. For licensing opportunities, contact licensing@asco.org.

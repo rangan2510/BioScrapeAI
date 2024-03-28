@@ -1,0 +1,13 @@
+Role of Patient and Disease Factors in Adjuvant Systemic Therapy Decision-Making for Early-Stage, Operable Breast Cancer
+
+Guideline Status: Current
+Published online before print June 17, 2019, DOI: 10.1200/JCO.19.00948
+N. Lynn Henry, Mark R. Somerfield, Vandana G. Abramson, Nofisat Ismaila, Kimberly H. Allison, Carey K. Anders, Diana T. Chingos, Andrea Eisen, Bruno L. Ferrari, Thomas H. Openshaw, Patricia A. Spears, Praveen Vikas, and Vered Stearns.
+Purpose
+To update the American Society of Clinical Oncology endorsement of the Cancer Care Ontario recommendations on the Role of Patient and Disease Factors in Adjuvant Systemic Therapy Decision Making for Early-Stage, Operable Breast Cancer.
+Methods
+Two phase III trials—the Trial Assigning Individualized Options for Treatment (TAILORx) in women with hormone receptor–positive, node-negative tumors and the Microarray in Node-Negative and 1 to 3 Positive Lymph Node Disease May Avoid Chemotherapy (MINDACT) trial—provided the evidence for this update.
+Updated Recommendations
+Shared decision making between clinicians and patients is appropriate for adjuvant systemic therapy for breast cancer. For patients older than age 50 years and whose tumors have Oncotype DX recurrence scores less than 26, and for patients age 50 years or younger whose tumors have Oncotype DX recurrence scores less than 16, there is little to no benefit from chemotherapy. Clinicians may offer endocrine therapy alone for these patients. For patients age 50 years or younger with recurrence scores of 16 to 25, clinicians may offer chemoendocrine therapy. Patients with recurrence scores greater than 30 should be considered candidates for chemoendocrine therapy. Based on informal consensus, the Panel recommends that oncologists may offer chemoendocrine therapy to patients with Oncotype DX scores of 26 to 30.
+The MammaPrint assay could be used to guide decisions on withholding adjuvant systemic chemotherapy in patients with hormone receptor–positive lymph node–negative breast cancer and in select patients with lymph node–positive cancers. In both patients with node-positive and node-negative disease, evidence of clinical utility of the MammaPrint assay was only apparent in those determined to be at high clinical risk; the Panel thus did not recommend use of MammaPrint assay in patients determined to be at low clinical risk. Remaining recommendations from the 2016 ASCO guideline endorsement are unchanged.
+© 2019 American Society of Clinical Oncology, all rights reserved. For licensing opportunities, contact licensing@asco.org.

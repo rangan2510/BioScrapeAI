@@ -1,0 +1,14 @@
+Margins for Breast-Conserving Surgery With Whole Breast Irradiation in Ductal Carcinoma In Situ
+
+Guideline Status: Current
+Published online August 15, 2016, DOI: 10.1200/JCO.2016.68.3573
+Monica Morrow, Kimberly J. Van Zee, Lawrence J. Solin, Nehmat Houssami, Mariana Chavez-MacGregor, Jay R. Harris, Janet Horton, Shelley Hwang, Peggy L. Johnson, M. Luke Marinovich, Stuart J. Schnitt, Irene Wapnir, and Meena S. Moran
+Background
+Controversy exists regarding the optimal negative margin width for ductal carcinoma in situ (DCIS) treated with breast-conserving surgery and whole breast irradiation (WBRT).
+Methods
+A multidisciplinary consensus panel used a meta-analysis of margin width and ipsilateral breast tumor recurrence (IBTR) from a systematic review of 20 studies including 7883 patients and other published literature as the evidence base for consensus.
+Results
+Negative margins halve the risk of IBTR compared with positive margins defined as ink on DCIS. A 2 mm margin minimizes the risk of IBTR compared with smaller negative margins. More widely clear margins do not significantly decrease IBTR compared with 2 mm margins. Negative margins less than 2 mm alone are not an indication for mastectomy, and factors known to impact rates of IBTR should be considered in determining the need for re-excision.
+Conclusion
+The use of a 2 mm margin as the standard for an adequate margin in DCIS treated with WBRT is associated with low rates of IBTR and has the potential to decrease re-excision rates, improve cosmetic outcome, and decrease health care costs. Clinical judgment should be used in determining the need for further surgery in patients with negative margins < 2 mm.
+  © 2019 American Society of Clinical Oncology, all rights reserved. For licensing opportunities, contact licensing@asco.org.

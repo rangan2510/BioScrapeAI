@@ -1,0 +1,12 @@
+Estrogen and Progesterone Receptor Testing in Breast Cancer
+
+Guideline Status: Current
+Published online January 13, 2020, doi: 10.1200/JCO.19.02309
+  Kimberly H. Allison, M. Elizabeth H. Hammond, Mitchell Dowsett, Shannon E. McKernin, Lisa A. Carey, Patrick L. Fitzgibbons, Daniel F. Hayes, Sunil R. Lakhani, Mariana Chavez-MacGregor, Jane Perlmutter, Charles M. Perou, Meredith M. Regan, David L. Rimm, W. Fraser Symmans, Emina E. Torlakovic, Leticia Varella,  Giuseppe Viale, Tracey F. Weisberg, Lisa M. McShane, and Antonio C. Wolff
+Purpose
+To update key recommendations of the American Society of Clinical Oncology/College of American Pathologists estrogen (ER) and progesterone receptor (PgR) testing in breast cancer guideline.
+Methods
+A multidisciplinary international Expert Panel was convened to update the clinical practice guideline recommendations informed by a systematic review of the medical literature.
+Recommendations
+The Expert Panel continues to recommend ER testing of invasive breast cancers by validated immunohistochemistry as the standard for predicting which patients may benefit from endocrine therapy, and no other assays are recommended for this purpose. Breast cancer samples with 1% to 100% of tumor nuclei positive should be interpreted as ER positive. However, the Expert Panel acknowledges that there are limited data on endocrine therapy benefit for cancers with 1% to 10% of cells staining ER positive. Samples with these results should be reported using a new reporting category, ER Low Positive, with a recommended comment. A sample is considered ER negative if < 1% or 0% of tumor cell nuclei are immunoreactive. Additional strategies recommended to promote optimal performance, interpretation, and reporting of cases with an initial low to no ER staining result include establishing a laboratory-specific standard operating procedure describing additional steps used by the laboratory to confirm/adjudicate results. The status of controls should be reported for cases with 0% to 10% staining. Similar principles apply to PgR testing, which is used primarily for prognostic purposes in the setting of an ER-positive cancer. Testing of ductal carcinoma in situ (DCIS) for ER is recommended to determine potential benefit of endocrine therapies to reduce risk of future breast cancer, while testing DCIS for PgR is considered optional.
+© 2020 American Society of Clinical Oncology, all rights reserved. For licensing opportunities, contact licensing@asco.org.

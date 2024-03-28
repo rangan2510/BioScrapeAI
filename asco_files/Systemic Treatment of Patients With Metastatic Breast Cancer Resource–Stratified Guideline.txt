@@ -1,0 +1,15 @@
+Systemic Treatment of Patients With Metastatic Breast Cancer Resource–Stratified Guideline
+
+Guideline Status: Current
+Published online ahead of print January 10, 2024. DOI: 10.1200/GO.23.00285
+Sana Al Sukhun, Sarah Temin, Carlos H. Barrios, Nicoleta Zenovia Antone, Yanin Chavarri Guerra, Mariana Chavez-Mac Gregor, Rakesh Chopra, Michael A. Danso, Henry Leonidas Gomez, N’Da Marcelin Homian, Alaa Kandil, Benda Kithaka, Bogda Koczwara, Beverly Moy, Gertrude Nakigudde, Fernando Enrique Petracci, Hope S. Rugo, Nagi S. El Saghir, and Banu K. Arun
+Purpose
+To guide clinicians and policymakers in three global resource-constrained settings on treating patients with metastatic breast cancer (MBC) when Maximal setting–guideline recommended treatment is unavailable.
+Methods
+A multidisciplinary, multinational panel reviewed existing ASCO guidelines and conducted modified ADAPTE and formal consensus processes.
+Results
+Four published resource-agnostic guidelines were adapted for resource-constrained settings; informing two rounds of formal consensus; recommendations received ≥75% agreement.
+Recommendations
+Clinicians should recommend treatment according to menopausal status, pathological and biomarker features when quality results are available. In first-line, for hormone receptor (HR)–positive MBC, when a non-steroidal aromatase inhibitor and CDK 4/6 inhibitor combination is unavailable, use hormonal therapy alone. For life-threatening disease, use single-agent chemotherapy or surgery for local control. For premenopausal patients, use ovarian suppression or ablation plus hormone therapy in Basic settings. For human epidermal growth factor receptor 2 (HER2)–positive MBC, if trastuzumab, pertuzumab, and chemotherapy are unavailable, use trastuzumab and chemotherapy; if unavailable, use chemotherapy. For HER2- positive, HR-positive MBC, use standard first-line therapy, or endocrine therapy if contraindications. For triple-negative MBC with unknown PD-L1 status, or if PD-L1–positive and immunotherapy unavailable, use singleagent chemotherapy. For germline BRCA1/2 mutation–positive MBC, if poly(ADP-ribose) polymerase inhibitor is unavailable, use hormonal therapy (HR-positive MBC) and chemotherapy (HR-negative MBC). In second-line, for HR-positive MBC, Enhanced setting recommendations depend on prior treatment; for Limited, use tamoxifen or chemotherapy. For HER2-positive MBC, if trastuzumab deruxtecan is unavailable, use trastuzumab emtansine; if unavailable, capecitabine and lapatinib; if unavailable, trastuzumab and/or chemotherapy (hormonal therapy alone for HR-positive MBC).
+© 2024 American Society of Clinical Oncology, all rights reserved. For licensing opportunities, contact licensing@asco.org.
+Please direct any requests to reuse ASCO Guidelines and/or related materials to permissions@asco.org.
